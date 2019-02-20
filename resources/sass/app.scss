@@ -1,0 +1,14 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+
+//bulma
+@import "bulma.scss";
+
+//bulma helpers
+@import "~bulma-helpers/bulma-helpers";
+
+@import "~animate.css/animate.min.css";
+
+[v-cloak] {
+    display: none;
+}
